@@ -58,7 +58,7 @@ Create content in any language. Our AI understands and generates designs in **20
 ---
 
 <p align="center">
-  <sub>© 2024 Seede AI. All rights reserved.</sub>
+  <sub>© 2025 Seede AI. All rights reserved.</sub>
 </p>
 
 <p align="center">
